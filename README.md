@@ -1,2 +1,2 @@
 # gameDriveBeta
-releasing web game for my frnds
+This is my first web game :car: :phone:
